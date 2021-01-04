@@ -10,7 +10,7 @@ Date Created: December 2020
 
 ## About The Project ##
 
-This application is designed to generate a random hex color code. You are able to view the final project [here](https://hex-color-generator.hariskamal.repl.co/ "couleur.io").
+This application is designed to generate a random hex color code. You are able to view the final project [here](https://couleurio.hariskamal.repl.co/ "couleur.io").
 
 ![alt text](https://i.imgur.com/D7vDvkp.png)
 
