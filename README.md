@@ -22,7 +22,7 @@ Clicking the paint button will paint the background of the website and display i
 
 ### Hex Color Code ###
 
-Hovering over the hex color code will display the same code as a tooltip. Clicking the text will open a webpage with the color code on https://www.color-hex.com/.
+Hovering over the hex color code will display the same code as the tooltip. Clicking the text will open a webpage with the color code on https://www.color-hex.com/.
 
 ## Roadmap ##
 
