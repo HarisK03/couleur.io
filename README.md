@@ -12,7 +12,7 @@ Date Created: December 2020
 
 This application is designed to generate a random hex color code. You are able to view the final project [here](https://couleurio.hariskamal.repl.co/ "couleur.io").
 
-![alt text](https://i.imgur.com/D7vDvkp.png)
+![alt text](https://github.com/HarisK03/couleur.io/blob/1e1af5ba77e7a9fa516a95bbfe96474491a948a0/demo.png)
 
 ## Getting Started ##
 
